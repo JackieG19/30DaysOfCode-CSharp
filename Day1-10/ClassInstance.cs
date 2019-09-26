@@ -24,7 +24,7 @@ class Person {
         
 	else if(age >= 13 && age < 18)
         {
-	   Console.WriteLine("You are teenager.");
+	   Console.WriteLine("You are a teenager.");
 	}
        
 	else
